@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BD5B7C252E37B8CB00E4A416 /* GithubCollaboration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubCollaboration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD5B7C252E37B8CB00E4A416 /* CapstoneProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CapstoneProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		BD5B7C262E37B8CB00E4A416 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BD5B7C252E37B8CB00E4A416 /* GithubCollaboration.app */,
+				BD5B7C252E37B8CB00E4A416 /* CapstoneProject.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BD5B7C242E37B8CB00E4A416 /* GithubCollaboration */ = {
+		BD5B7C242E37B8CB00E4A416 /* CapstoneProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD5B7C302E37B8CE00E4A416 /* Build configuration list for PBXNativeTarget "GithubCollaboration" */;
+			buildConfigurationList = BD5B7C302E37B8CE00E4A416 /* Build configuration list for PBXNativeTarget "CapstoneProject" */;
 			buildPhases = (
 				BD5B7C212E37B8CB00E4A416 /* Sources */,
 				BD5B7C222E37B8CB00E4A416 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				BD5B7C272E37B8CB00E4A416 /* GithubCollaboration */,
 			);
-			name = GithubCollaboration;
+			name = CapstoneProject;
 			packageProductDependencies = (
 			);
 			productName = GithubCollaboration;
-			productReference = BD5B7C252E37B8CB00E4A416 /* GithubCollaboration.app */;
+			productReference = BD5B7C252E37B8CB00E4A416 /* CapstoneProject.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BD5B7C202E37B8CB00E4A416 /* Build configuration list for PBXProject "GithubCollaboration" */;
+			buildConfigurationList = BD5B7C202E37B8CB00E4A416 /* Build configuration list for PBXProject "CapstoneProject" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BD5B7C242E37B8CB00E4A416 /* GithubCollaboration */,
+				BD5B7C242E37B8CB00E4A416 /* CapstoneProject */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BD5B7C202E37B8CB00E4A416 /* Build configuration list for PBXProject "GithubCollaboration" */ = {
+		BD5B7C202E37B8CB00E4A416 /* Build configuration list for PBXProject "CapstoneProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD5B7C2E2E37B8CE00E4A416 /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD5B7C302E37B8CE00E4A416 /* Build configuration list for PBXNativeTarget "GithubCollaboration" */ = {
+		BD5B7C302E37B8CE00E4A416 /* Build configuration list for PBXNativeTarget "CapstoneProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD5B7C312E37B8CE00E4A416 /* Debug */,
